@@ -1,6 +1,6 @@
 pipeline{
     tools{
-        maven 'local maven'
+        maven 'local_maven'
     }
     
     agent any
